@@ -7,7 +7,7 @@ AntiMicroX https://flathub.org/en/apps/io.github.antimicrox.antimicrox - for con
 Steam https://store.steampowered.com/
 
 i5-420IU
-this is for the cpu to operate at it,s maximum clock
+this is for the cpu to operate at it's maximum clock
 
 sudo apt update
 sudo apt install linux-cpupower
