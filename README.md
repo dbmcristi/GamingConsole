@@ -10,6 +10,8 @@ i5-420IU
 this is for the cpu to operate at it's maximum clock
 
 sudo apt update
+
 sudo apt install linux-cpupower
+
 sudo cpupower frequency-set -g performance
 
